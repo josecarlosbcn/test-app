@@ -22,7 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          Aquí, el deploy lo ha hecho github, por lo que después del push no tienes que hacer nada más.
+          Aquí, el deploy lo ha hecho github, por lo que después del push no tienes que hacer nada más. (v1)
         </p>
       </div>
       <p className="read-the-docs">
